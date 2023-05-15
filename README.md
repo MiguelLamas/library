@@ -2,9 +2,9 @@
 
 Tech Used:
 - React
-React Router
-Express
-Sequelize
-Node
-Supabase
-Render
+- React Router
+- Express
+- Sequelize
+- Node
+- Supabase
+- Render
