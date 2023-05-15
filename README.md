@@ -1,6 +1,6 @@
-PERN LIBRARY APP
+# PERN LIBRARY APP
 
-## Develop a basic PERN stack application to help me learn to deploy with Render.
+## Developed this basic PERN stack application to help me learn to deploy with Render.
 
 Tech Used:
 - React
