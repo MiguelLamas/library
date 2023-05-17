@@ -7,19 +7,19 @@ module.exports = {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER,
+        type: Sequelize.INTEGER
       },
       name: {
         type: Sequelize.STRING,
-        allowNull: false,
+        allowNull: false
       },
       author: {
         type: Sequelize.STRING,
-        allowNull: false,
+        allowNull: false
       },
       year_published: {
         type: Sequelize.SMALLINT,
-        allowNull: false,
+        allowNull: false
       },
     });
   },
@@ -27,3 +27,4 @@ module.exports = {
     await queryInterface.dropTable("books");
   },
 };
+
