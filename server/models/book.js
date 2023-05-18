@@ -30,6 +30,7 @@ module.exports = (sequelize, DataTypes) => {
     year_published: {
       type: DataTypes.SMALLINT,
       allowNull: false
+    }
   }, {
     sequelize,
     modelName: 'Book',
